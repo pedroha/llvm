@@ -1,3 +1,6 @@
+Install from sources in SVN as described in:
+http://clang.llvm.org/get_started.html
+
 Low Level Virtual Machine (LLVM)
 ================================
 
